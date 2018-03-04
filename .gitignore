@@ -1,0 +1,10 @@
+#   Author Mrtiotio
+
+#   Virtualenv no need to sync
+khadgar/*   
+
+#   The .vscode directory.
+.vscode/*
+
+#   Pycachce
+__pycache__
