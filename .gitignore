@@ -8,3 +8,6 @@ khadgar/*
 
 #   Pycachce
 __pycache__
+
+#   Lose files
+inlinekeyboard.py 
